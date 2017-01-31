@@ -1,0 +1,9 @@
+packages: [
+  "gruvbox-plus-syntax"
+  "language-latex"
+  "language-sas"
+  "package-sync"
+  "vim-mode-plus"
+  "vim-mode-plus-ex-mode"
+  "vim-mode-plus-keymaps-for-surround"
+]

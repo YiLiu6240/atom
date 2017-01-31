@@ -1,0 +1,18 @@
+"*":
+  "activate-power-mode":
+    screenShake:
+      enabled: false
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "one-dark-ui"
+      "gruvbox-plus-syntax"
+    ]
+  editor: {}
+  "exception-reporting":
+    userId: "8fdc577c-5de3-0b5b-7f18-75c1c209d649"
+  "package-sync":
+    createOnChange: true
+    forceOverwrite: true
+  welcome:
+    showOnStartup: false

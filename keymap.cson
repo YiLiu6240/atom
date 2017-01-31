@@ -1,7 +1,7 @@
-'atom-text-editor.vim-mode-plus:insert-mode':
+'atom-text-editor.vim-mode-plus.insert-mode':
   'j k': 'vim-mode-plus:activate-normal-mode'
 
-'atom-text-editor.vim-mode-plus:not(.insert-mode)':
+'atom-text-editor.vim-mode-plus.not(.insert-mode)':
   'g c': 'vim-mode-plus:toggle-line-comments'
 
 'atom-text-editor.vim-mode-plus.normal-mode':

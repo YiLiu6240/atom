@@ -2,7 +2,7 @@
 # https://github.com/gibsjose/atom/blob/master/.gitignore
 .apm
 .node-gyp
-packages/
+# packages/
 storage/
 compile-cache/
 blob-store/

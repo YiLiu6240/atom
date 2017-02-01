@@ -1,8 +1,11 @@
 packages: [
   "gruvbox-plus-syntax"
+  "language-autohotkey"
   "language-latex"
   "language-sas"
+  "latex"
   "package-sync"
+  "pdf-view"
   "vim-mode-plus"
   "vim-mode-plus-ex-mode"
   "vim-mode-plus-keymaps-for-surround"

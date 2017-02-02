@@ -6,6 +6,8 @@ packages: [
   "latex"
   "package-sync"
   "pdf-view"
+  "terminal-panel"
+  "advanced-open-file"
   "vim-mode-plus"
   "vim-mode-plus-ex-mode"
   "vim-mode-plus-keymaps-for-surround"

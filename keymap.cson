@@ -1,5 +1,22 @@
 'atom-text-editor.vim-mode-plus.insert-mode':
   'j k': 'vim-mode-plus:activate-normal-mode'
 
-'atom-text-editor.vim-mode-plus.not(.insert-mode)':
+'atom-text-editor.vim-mode-plus:not(.insert-mode)':
+  'space ;': 'command-palette:toggle'
   'g c': 'vim-mode-plus:toggle-line-comments'
+  'space f f': 'advanced-open-file:toggle'
+  'space f t': 'tree-view:reveal-active-file'
+
+'.select-list atom-text-editor[mini]':
+  'ctrl-j': 'core:move-down'
+  'ctrl-k': 'core:move-up'
+  'ctrl-h': 'core:backspace'
+  'ctrl-m': 'core:confirm'
+  'ctrl-g': 'core:cancel'
+
+'.advanced-open-file atom-text-editor':
+  'ctrl-j': 'advanced-open-file:move-cursor-down'
+  'ctrl-k': 'advanced-open-file:move-cursor-up'
+  'ctrl-m': 'core:confirm'
+  'ctrl-g': 'core:cancel'
+  'ctrl-h': 'advanced-open-file:delete-path-component'
